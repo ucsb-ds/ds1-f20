@@ -1,18 +1,18 @@
 ---
-title: Week 1
+title: Week 7
 ---
-Oct 5
+Nov 16
 : [](#)
 
-Oct 6
+Nov 17
 : [](#)
 
-Oct 7
+Nov 18
 : [](#)
 
-Oct 8
+Nov 19
 : [](#)
 
-Oct 9
+Nov 20
 : [](#)
 

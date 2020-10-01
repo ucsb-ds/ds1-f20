@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Just the Class
+title: UCSB DS1
 nav_exclude: true
 seo:
   type: Course
-  name: Just the Class
+  name: UCSB DS1
 ---
 
 # {{ site.tagline }}
@@ -14,44 +14,22 @@ seo:
 
 {% if site.announcements %}
 {{ site.announcements.last }}
-[Announcements](announcements.md){: .btn .btn-outline .fs-3 }
+[Previous Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-## Just the Class
+## UCSB DS1 Data Science Foundations, Fall 2020, taught by Prof. K
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Welcome to the course!
 
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+Data is everywhere, and each of us has access to data on virtually any topic imaginable via the internet. However, access to _data_ is not the same thing as access to _information_. The purpose of this course is to develop some of the foundational skills needed to consume data and create information. The main theme in the course is understanding the sources of data, the variability inherent in data, and the inherent uncertainty associated with conclusions drawn from data.
 
-Just the Class is built on top of [Just the Docs](https://github.com/pmarsceill/just-the-docs), making it easy to extend for your own special use cases while providing sane defaults for most everything else. This means that you also get:
+The course teaches critical concepts and skills in computer programming and statistical inference, in conjunction with hands-on analysis of real-world datasets from a variety of disciplines. 
 
-- automatic [navigation structure](https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://pmarsceill.github.io/just-the-docs/docs/search/) and page indexing,
-- and a small but powerful set of [UI components](https://pmarsceill.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://pmarsceill.github.io/just-the-docs/docs/utilities).
+## Important course links:
+* [Zoom link for lecture, lab and office hours](https://ucsb.zoom.us/j/81943950827)
+* [Lecture slides and recordings](#)
+* [Sync content to data1.lsit.ucsb.edu](https://data1.lsit.ucsb.edu/hub/user-redirect/git-pull?repo=https://github.com/ucsb-ds/ds1-f20-content)
+* [Gradescope](https://www.gradescope.com/courses/191466)
+* [Piazza](https://piazza.com/class)
 
-## Getting Started
 
-Getting started with Just the Class is simple.
-
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Update `_config.yml` with your course information.
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add your content.
-
-Continue reading to learn how to setup a development environment on your local computer. This allows you to make incremental changes without directly modifying the live website.
-
-### Local development environment
-
-Just the Class is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler.
-
-1. Follow the GitHub documentation for [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll).
-1. Start your local Jekyll server.
-```bash
-$ bundle exec jekyll serve
-```
-1. Point your web browser to [http://localhost:4000](http://localhost:4000)
-1. Reload your web browser after making a change to preview its effect.
-
-For more information, refer to [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
