@@ -27,11 +27,11 @@ In our course, each week covers roughly 1 chapter, and we have the following cou
 |     |     | **Async activity**: Read the book, and work on/finish PA |
 |  Tue|9AM, PAs| **Lecture 1**: Synchronous activities.|
 |     |     | **Async activity**: Work on/finish related LA and HW |
-| Wed | 9PM, LAs | **Guided tutoring lab sessions**: in small groups, students work on the LA (starting and/or finishing), resolving any lingering questions, reviewing materials with mentors. In weeks 6 through 10, students work on the projects in pairs. |
+| Wed | 9AM, LAs | **Guided tutoring lab sessions**: in small groups, students work on the LA (starting and/or finishing), resolving any lingering questions, reviewing materials with mentors. In weeks 6 through 10, students work on the projects in pairs. |
 |     |     | **Async activity**: Work on/finish related LA and HW |
 | Thu |     | **Lecture 2**: Synchronous activities |
 |     |     | **Async activity**: Review concepts, work on/finish related HW and LA |
-| Sat | 9PM, HW | |
+| Sat | 9AM, HW | |
 | | | **Async activity**: Read the book, review concepts, and work on/finish PA and LA |
 
 -----
