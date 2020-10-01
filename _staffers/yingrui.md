@@ -1,7 +1,7 @@
 
 
 ### About me 👋
-![Yingrui](/assets/images/yingrui.jpeg)
+![Yingrui](/assets/images/yingrui.jpeg| width=100)
 
 I'm Yingrui Yang,
 
