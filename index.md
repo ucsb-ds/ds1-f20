@@ -25,6 +25,13 @@ Data is everywhere, and each of us has access to data on virtually any topic ima
 
 The course teaches critical concepts and skills in computer programming and statistical inference, in conjunction with hands-on analysis of real-world datasets from a variety of disciplines. 
 
+## Getting started
+
+* Begin by reading [about the course, its policies, and resources](about.md). 
+* Add the [course calendar](calendar.md) to your calendars
+* Follow the suggestions on [how to succeed in DS 1](success.md), adding to your calendar the time slots from the suggested [roadmap](success.md/#roadmap)
+
+
 ## Important course links:
 * [Zoom link for lecture, lab and office hours](https://ucsb.zoom.us/j/81943950827)
 * [Lecture slides and recordings](#)
