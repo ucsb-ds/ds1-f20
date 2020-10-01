@@ -1,8 +1,7 @@
 
 
 ### About me 👋
-![](./assets/images/yingrui.jpeg){ width=25% }
-
+![](./assets/images/yingrui.jpeg =100x100)
 I'm Yingrui Yang,
 
 - 🔭 a data scientist developing machine learning models for business use cases
