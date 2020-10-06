@@ -98,7 +98,7 @@ If you are uncomfortable bringing up an issue with the course staff directly, su
 
 Help us create a welcoming, inclusive atmosphere that supports a diversity of thoughts, perspectives and experiences, and honors your identities.
 
-(Inspired by and adopted from [Mine Çetinkaya-Rundel](http://www2.stat.duke.edu/courses/Spring18/Sta199), [Hacker Hours](https://hackerhours.org/policies.html)), and [Kevin Lin](https://courses.cs.washington.edu/courses/cse143/20au/about/#inclusive-community).
+(_Inspired by and adopted from [Mine Çetinkaya-Rundel](http://www2.stat.duke.edu/courses/Spring18/Sta199), [Hacker Hours](https://hackerhours.org/policies.html), and [Kevin Lin](https://courses.cs.washington.edu/courses/cse143/20au/about/#inclusive-community)_).
 
 ### Student Organizations and Resources
 [Learn about pronouns](http://rcsgd.sa.ucsb.edu/education/pronouns) and how to [change your name and pronouns at UCSB](http://rcsgd.sa.ucsb.edu/resources/how-to-change-your-name). 
