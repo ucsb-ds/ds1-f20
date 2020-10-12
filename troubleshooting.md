@@ -88,6 +88,17 @@ Make sure that you created your account using `@umail.ucsb.edu` (not `@ucsb.edu`
 
 SBCC students: check which address the Gradescope email was sent to; verify that you are using the email that was in the Gradescope's "To:" field.
 
+## I am unable to see the class when I log into Piazza.
+
+Make sure that you created your account using `@umail.ucsb.edu` (not `@ucsb.edu`).
+
+SBCC students: check which address the Piazza email was sent to; verify that you are using the email that was in the Piazza's "To:" field.
+
+If you have multiple accounts on Piazza with different email addresses, you can add them to you account to merge the accounts:
+* (using the browser on the computer), Click the cogwheel in the upper-right corner of the window
+* select "[Account/Email Settings](https://piazza.com/account_settings)"
+* add your email under "Other emails".
+
 ## If we submit our labs onto Gradescope multiple times, will the newest version be the one graded? 
 
 Yes, your latest submission will be the one that's used for grading.
