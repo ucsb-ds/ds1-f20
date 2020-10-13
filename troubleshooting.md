@@ -28,6 +28,16 @@ NameError: name 'ok' is not defined
 
 **Solution**: run the code cell that says `from client.api.notebook import Notebook` in it (in Lab01 this cell is in section `1.5 Submitting your work`). You will need to run this cell _every time_ you start a new Jupyter session or restart the kernel. 
 
+
+## TypeError: 'float' object is not callable
+
+Alternatively, you might get `TypeError: 'int' object is not callable`.
+
+This error happens when the variable that we are trying to assign is not correctly defined, which means that something is off on the right side of the assignment sign. 
+
+For example, in Python, we cannot write `y = 2x`, because `2` is a _literal_ and `x` is a _variable_, so we need to make sure that there is an operator between them, which in this case should be a multiplication. 
+Re-writing the expression as `y = 2*x` fixes the error.
+
 -----
 
 ## Tab completion doesn't work 
@@ -42,7 +52,7 @@ _Update Oct.8_: We noticed that the tab completion only works within the cell in
 We are looking into it to see if the Jupyter notebooks got updated to remove this feature or if it is a setting that we need to change.
 Stay tuned!
 
-
+------
 
 ## I downloaded the notebook file but it saves as the (.ipynb.json) extension, so whenever I upload it to Gradescope, it fails.
 
