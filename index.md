@@ -34,7 +34,7 @@ The course teaches critical concepts and skills in computer programming and stat
 
 ## Important course links:
 * [Zoom link for lecture, lab and office hours](https://ucsb.zoom.us/j/81943950827)
-* [Lecture slides and recordings](#)
+* [Lecture slides and recordings](https://drive.google.com/drive/folders/1jXp8NTg4pLzL3yqRWWR__Qs_jtA-y8cy?usp=sharing) (Make sure that you log in with your @ucsb account; we won't be granting access to personal gmail addresses.)
 * [Sync content to data1.lsit.ucsb.edu](https://data1.lsit.ucsb.edu/hub/user-redirect/git-pull?repo=https://github.com/ucsb-ds/ds1-f20-content)
 * [Gradescope](https://www.gradescope.com/courses/191466)
 * [Piazza](https://piazza.com/class)
