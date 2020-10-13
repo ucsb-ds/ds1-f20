@@ -29,6 +29,19 @@ NameError: name 'ok' is not defined
 **Solution**: run the code cell that says `from client.api.notebook import Notebook` in it (in Lab01 this cell is in section `1.5 Submitting your work`). You will need to run this cell _every time_ you start a new Jupyter session or restart the kernel. 
 
 
+## NameError: name 'variable_name' is not defined
+
+If you run your tests and recieve a lot of errors of the form:
+```
+NameError: name 'variable_name' is not defined
+```
+you may not have run the cells where these variables were defined. Or, you may have run the cells but then closed the session. 
+
+**Solution**: run the notebook from top to bottom. 
+```
+Cell -> Run All
+```
+
 ## TypeError: 'float' object is not callable
 
 Alternatively, you might get `TypeError: 'int' object is not callable`.
