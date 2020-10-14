@@ -73,6 +73,12 @@ You need to verify that the extension of the saved notebook file is `.ipynb`.
 
 Occasionally, your operating system will rename it to be `.ipynb.json`, so you need to change it into `.ipynb` with nothing following it.
 
+_Update Oct.14_: If the above doesn't work (for example, if Gradescope adds the `.ipynb.json` extension even if you saved it with `.ipynb`), try using a different browser. For students with Mac laptops who were using Safari, the following fixed the issue:
+
+* Open the notebook in Google Chrome
+* Follow the steps about saving and downloading at the bottom of the lab
+* If asked which application it should use to open the file when you are downloading it select textEdit (if you don't have textEdit try others until it works)
+
 
 --------
 
