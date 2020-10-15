@@ -42,6 +42,13 @@ you may not have run the cells where these variables were defined. Or, you may h
 Cell -> Run All
 ```
 
+## NameError: name 'make_array' is not defined
+
+Make sure that you imported the `datascience` module. Run the cell that says
+```
+from datascience import *
+```
+
 ## TypeError: 'float' object is not callable
 
 Alternatively, you might get `TypeError: 'int' object is not callable`.
