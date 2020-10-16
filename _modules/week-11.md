@@ -1,5 +1,5 @@
 ---
-title: Week 11
+title: Week 11 - Final Exams
 ---
 Dec 14
 : [](#)
@@ -14,5 +14,6 @@ Dec 17
 : [](#)
 
 Dec 18
+: Last day of Fall 2020 quarter
 : [](#)
 

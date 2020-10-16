@@ -14,6 +14,7 @@ Oct 14
 
 Oct 15
 : **Lecture 4**: Arrays and Ranges; Critical Thinking and Logical Fallacies
+: **PA**{: .label .label-purple } [PA01: Logical Fallacies post on Piazza](https://piazza.com/class/kfcezvb24pt5qt?cid=15)
 
 Oct 16
 : [](#)
