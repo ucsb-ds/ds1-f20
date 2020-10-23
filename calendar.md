@@ -15,5 +15,7 @@ You can use the "Add to Google Calendar" `+` button below, on the bottom right c
 
 # Office Hours
 
+[Schedule an appointment with Prof. K](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUFjZExlYWxLMkdRfGRlZmF1bHR8NTZmMGZmY2IyYjFmZTVmMmNmNWQ0YmUxZjQ2MWUwOGY){: .btn .btn-outline }
+
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRu_Foc4EPwRewmP19giNIRHykC5bd3SHcruZYwhdBTyg0v_A3mS6HQ-jNUv3a42GGkFrcLpz8qjqEi/pubhtml?gid=0&single=true" style="border: 0" width="98%" height="950px" frameborder="0" scrolling="yes"></iframe>
 
