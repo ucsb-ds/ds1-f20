@@ -19,5 +19,7 @@ Oct 22
   : [Ch. 2](https://www.inferentialthinking.com/chapters/02/causality-and-experiments.html)
 
 Oct 23
-:  **HW**{: .label .label-purple } HW01: TBA
+:  **HW**{: .label .label-purple } [HW01: Expressions and Causality](https://data1.lsit.ucsb.edu/hub/user-redirect/git-pull?repo=https://github.com/ucsb-ds/ds1-f20-content&subPath=hw01/hw01.ipynb)
 
+Oct 24
+:  **PA**{: .label .label-purple } PA02: Welcome Survey
