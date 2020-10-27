@@ -5,14 +5,14 @@ Oct 26
 : [](#)
 
 Oct 27
-: **PA 2 due**{: .label .label-red } 
-: **Lecture 7**:
-: [](#)
+: **Lecture 7**: Defining functions
+  : [Section 8.1](https://www.inferentialthinking.com/chapters/08/Functions_and_Tables.html)
 
 Oct 28
 : *Deadline to Drop Courses without a "W"*
+: **PA 2 due**{: .label .label-red } 
 : **Lab 3 due**{: .label .label-red }
-:  **Lab**{: .label .label-purple } Lab04
+:  **Lab**{: .label .label-purple } [Lab04: Functions](https://data1.lsit.ucsb.edu/hub/user-redirect/git-pull?repo=https://github.com/ucsb-ds/ds1-f20-content&subPath=lab04/lab04.ipynb)
 
 Oct 29
 : **Lecture 8**:

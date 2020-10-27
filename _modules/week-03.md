@@ -22,4 +22,4 @@ Oct 23
 :  **HW**{: .label .label-purple } [HW01: Expressions and Causality](https://data1.lsit.ucsb.edu/hub/user-redirect/git-pull?repo=https://github.com/ucsb-ds/ds1-f20-content&subPath=hw01/hw01.ipynb)
 
 Oct 24
-:  **PA**{: .label .label-purple } PA02: Welcome Survey
+:  **PA**{: .label .label-purple } [PA02: Welcome Survey](https://piazza.com/class/kfcezvb24pt5qt?cid=33)
