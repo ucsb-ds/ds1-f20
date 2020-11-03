@@ -120,6 +120,10 @@ UCSB provides academic accommodations to students with disabilities. DSP serves 
 ### Managing Stress and Mental Health
 Students may feel overwhelmed or depressed with coursework, stress, anxiety, relationships, cultural differences, and/or other personal challenges. If you find yourself, or another student, in need of support, please do not hesitate to reach out to Counseling and Psychological Services (CAPS), 24/7 at (805)893-4411, <http://caps.sa.ucsb.edu>.
 
+### Additional University Resources
+
+From building academic skills at CLAS to reporting bias incidents, you can find a list of additional resources at UCSB: <http://academics.sa.ucsb.edu/programs/campus-service/student-support-syllabus-text>.
+
 ----
 
 ## Disclaimer
