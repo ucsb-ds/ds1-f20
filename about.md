@@ -180,9 +180,9 @@ Contact the instructor as soon as you can with a request for accommodation. Note
 All lecture material including slides and lecture recordings will be posted on the website after class. 
 
 ## Copyright of Course Materials
-The lectures and course materials for this course, including PowerPoint presentations, tests, outlines, and similar materials, are protected by U.S. copyright law and by University policy. The instructor is the exclusive owner of the copyright in those materials, unless stated otherwise. You may take notes and make copies of course materials _for your own use_. 
+The lectures and course materials for this course, including PowerPoint presentations, tests, outlines, and similar materials, are protected by the U.S. copyright law and [the University policy](https://copyright.universityofcalifornia.edu/resources/recorded-presentations.html). The instructor is the exclusive [owner of the copyright](https://copyright.universityofcalifornia.edu/resources/ownership-course-materials.html) in those materials, unless stated otherwise. You may take notes and make copies of course materials _for your own use_. 
 
-You may not reproduce, distribute or display (post/upload) lecture notes or recordings or course materials in any other way — whether or not a fee is charged — without the instructor's express prior written consent. You also may not allow others to do so.
+You may not reproduce, distribute or display (post/upload) lecture notes or recordings or course materials — whether or not a fee is charged — without the instructor's express prior written consent. You also may not allow others to do so.
 
 If you do so, you may be subject to student conduct proceedings under the UC Santa Barbara Student Code of Conduct.
 
@@ -193,11 +193,14 @@ You should not share your code or answers directly with other students. Doing so
 If you are not sure about whether some kind of collaboration is permitted or not, it is your responsibility to **verify with the instructor** and ask questions.
 
 Penalties for cheating are severe — they range from a zero grade for the assignment up to dismissal from the University, for a second offense. 
-The Office of Judicial Affairs has policies, tips, and resources for proper citation use, recognizing actions considered to be cheating or other forms of academic theft, and students' responsibilities, available on their website at: <http://judicialaffairs.sa.ucsb.edu>.  Students are responsible for educating themselves on the policies and to abide by them.
+The Office of Judicial Affairs has policies, tips, and resources for proper citation use, recognizing actions considered to be cheating or other forms of academic theft, and students' responsibilities, available on their website at: <https://studentconduct.sa.ucsb.edu/academic-integrity>.  Students are responsible for educating themselves on the policies and to abide by them.
 
 Rather than copying someone else's work, ask for help. You are not alone in this course! We are here to help you succeed. If you invest the time to learn the material and complete the projects, you won't need to copy any answers.
 
 # A Parting Thought
 We don't want to end this page with a list of penalties, because penalties and grades aren't the purpose of the course. We actually just want you to learn and have a great time in the process. Please keep that goal in mind throughout the semester. Welcome to Data Science Foundations!
 
+-----
 Last major revision: Oct 1, 2020
+
+Last updated: Nov 3, 2020 (updated links to campus resources and copyright info)
