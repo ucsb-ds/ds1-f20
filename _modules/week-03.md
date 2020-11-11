@@ -6,13 +6,13 @@ Oct 19
 : [](#)
 
 Oct 20
-: **PA 1 due**{: .label .label-red } 
 : **Lecture 5**: Tables
   : [Ch. 6](https://www.inferentialthinking.com/chapters/06/Tables.html)
+  : / **PA 1 due**{: .label .label-red } 
 
 Oct 21
-: **Lab 2 due**{: .label .label-red }
-:  **Lab**{: .label .label-purple } [Lab03: Tables](https://data1.lsit.ucsb.edu/hub/user-redirect/git-pull?repo=https://github.com/ucsb-ds/ds1-f20-content&subPath=lab03/lab03.ipynb)
+: **Lab**{: .label .label-purple } [Lab03: Tables](https://data1.lsit.ucsb.edu/hub/user-redirect/git-pull?repo=https://github.com/ucsb-ds/ds1-f20-content&subPath=lab03/lab03.ipynb)
+  : **Lab 2 due**{: .label .label-red }
 
 Oct 22
 : **Lecture 6**: Cause and Effect; Tables
