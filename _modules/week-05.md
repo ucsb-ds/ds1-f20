@@ -2,7 +2,7 @@
 title: Week 5
 ---
 Nov 2
-:  **HW**{: .label .label-purple } HW02
+:  **HW**{: .label .label-purple } ~~HW02~~
 : [](#)
 
 Nov 3
@@ -16,7 +16,7 @@ Nov 4
 :  **Lab**{: .label .label-purple } [Lab05: Visualization](https://data1.lsit.ucsb.edu/hub/user-redirect/git-pull?repo=https://github.com/ucsb-ds/ds1-f20-content&subPath=lab05/lab05.ipynb)
 
 Nov 5
-: **Lecture 10**:
+: **Lecture 10**: Guest lecture + `np.random`, `np.count_nonzero`
 : [](#)
 
 Nov 6

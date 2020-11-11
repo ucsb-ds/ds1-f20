@@ -5,7 +5,7 @@ Nov 9
 : [](#)
 
 Nov 10
-: **Lecture 11**:
+: **Lecture 11**: Randomness + Loops
 : [](#)
 
 Nov 11

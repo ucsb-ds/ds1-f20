@@ -5,7 +5,6 @@ Nov 16
 : [](#)
 
 Nov 17
-: **PA 5 due**{: .label .label-red } 
 : **Lecture 13**:
 : [](#)
 
