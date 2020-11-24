@@ -10,12 +10,13 @@ Dec 1
 
 Dec 2
 : **Lab**{: .label .label-purple } 
-: [](#)
+  : **Lab 8 due**{: .label .label-red }
+  : **Project Draft due**{: .label .label-red }
 
 Dec 3
 : **Lecture 17**:
 : [](#)
 
 Dec 4
-: [](#)
+: **Project 1 due**{: .label .label-red }
 
