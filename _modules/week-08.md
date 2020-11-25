@@ -11,7 +11,7 @@ Nov 24
 : 
 
 Nov 25
-: **Lab**{: .label .label-purple } 
+: **Lab**{: .label .label-purple } [Lab08: k-Nearest Neighbors](https://data1.lsit.ucsb.edu/hub/user-redirect/git-pull?repo=https://github.com/ucsb-ds/ds1-f20-content&subPath=lab08/lab08.ipynb)
   : **Lab 7 due**{: .label .label-red }
 
 Nov 26

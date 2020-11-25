@@ -10,7 +10,6 @@ Dec 1
 
 Dec 2
 : **Lab**{: .label .label-purple } 
-  : **Lab 8 due**{: .label .label-red }
   : **Project Draft due**{: .label .label-red }
 
 Dec 3
@@ -19,4 +18,5 @@ Dec 3
 
 Dec 4
 : **Project 1 due**{: .label .label-red }
+: **Lab 8 due**{: .label .label-red }
 
