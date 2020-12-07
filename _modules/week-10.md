@@ -2,7 +2,7 @@
 title: Week 10
 ---
 Dec 7
-: [](#)
+: **Project**{: .label .label-purple } [Project 2 is assigned](#)
 
 Dec 8
 : **Lecture 18**:
@@ -18,4 +18,5 @@ Dec 10
 
 Dec 11
 : [](#)
+  : **HW 2 due**{: .label .label-red }
 
