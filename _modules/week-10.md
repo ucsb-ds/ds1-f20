@@ -13,7 +13,7 @@ Dec 9
 : [](#)
 
 Dec 10
-: **Lecture 19**:
+: **Lecture 19**: A panel with the former DS 1 tutors
 : [](#)
 
 Dec 11
