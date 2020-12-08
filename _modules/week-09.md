@@ -5,7 +5,7 @@ Nov 30
 : [](#)
 
 Dec 1
-: **Lecture 16**:
+: **Lecture 16**: A panel with the UCSB DS Fellows
 : [](#)
 
 Dec 2
@@ -13,7 +13,7 @@ Dec 2
   : **Project Draft due**{: .label .label-red }
 
 Dec 3
-: **Lecture 17**:
+: **Lecture 17**: Guest speaker
 : [](#)
 
 Dec 4
